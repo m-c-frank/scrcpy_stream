@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/scrcpy_stream_pkg_m_c_frank.egg-info/PKG-INFO
+src/scrcpy_stream_pkg_m_c_frank.egg-info/SOURCES.txt
+src/scrcpy_stream_pkg_m_c_frank.egg-info/dependency_links.txt
+src/scrcpy_stream_pkg_m_c_frank.egg-info/top_level.txt
